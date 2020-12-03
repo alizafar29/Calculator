@@ -1,0 +1,30 @@
+
+
+html, body{
+	overflow-x: hidden;
+	margin: 0% !important;
+}
+
+.row{
+	margin: 0% !important;
+}
+
+.btn{
+	height: auto;
+	width: 23%;
+	
+}
+#display{
+	width: 95%;
+	margin: auto;
+}
+.card{
+	width: 100%;
+	text-align: center;
+}
+span{
+	font-weight: bolder;
+}
+.bgcolor{
+	margin-top: 5%;
+}
